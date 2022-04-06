@@ -1,0 +1,31 @@
+id: P944EFA0F
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA29143
+  instance_id: http://purl.bdrc.io/resource/IE29143
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཅོད་པ་དོན་གྲུབ་དང་སྙིང་པོ་ཚེ་རིང་གི་ཆེད་རྩོམ་ཕྱོགས་བསྒྲིགས།
+  alt_title:
+    en-x-mixed:
+    - Gcod-pa Don-grub daṅ Sñiṅ-bo-tshe-riṅ gi ched rtsom phyogs bsgrigs.
+  author: http://purl.bdrc.io/resource/P6438
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    57f0cbd639ff4005a12ac10170ed9056:
+      title: པོད ༡་གཅོད་པ་དོན་གྲུབ་དང་སྙིང་པོ་ཚེ་རིང་གི་ཆེད་རྩོམ་ཕྱོགས་བསྒྲིགས
+      volume_number: 1
+      base_file: UT29143_I00KG08137_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2A2266DCEC2FE321
+      image_group: I00KG08137
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW29143
+  - http://purl.bdrc.io/resource/W29143
+  ocr_software: Namsel
+created_at: '2021-12-22T11:12:19.732090'
+last_modified_at: '2021-12-22T11:12:19.732098'
